@@ -1,0 +1,13 @@
+This is to run powershell as administrator
+
+Windows + R
+
+do not push enter yet 
+
+now do
+
+CTRL SHIFT enter
+Voila - now you are running powershell as administrator 
+
+you may need this while installing dart using the below command 
+choco install dart-sdk
